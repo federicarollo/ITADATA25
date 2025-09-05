@@ -20,7 +20,7 @@ The source code (Python code in the [code folder](https://github.com/federicarol
 
 The code can be run through [Google Colab](colab.research.google.com) or a Python IDE (e.g., Jupyter notebook).
 
-If you use Google Colab, you need to import data from the [data folder](https://github.com/federicarollo/ITADATA25/tree/main/data) manually.
+If you are using Google Colab, after loading the file with the code, you need to import data from the [data folder](https://github.com/federicarollo/ITADATA25/tree/main/data) manually.
 
 
 
