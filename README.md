@@ -24,9 +24,10 @@ The code can be run through [Google Colab](colab.research.google.com) or a Pytho
 
 For further details, you may refer to and cite the following publications:
 
-<pre> ```text Federica Rollo and Laura Po. 2025. GRAFMOVE: Graph-based Mobility Optimization and Visualization Engine. In Proceedings of the 33rd ACM International Conference on Advances in Geographic Information Systems (Minneapolis, MN, USA) (SIGSPATIAL ’25). Association for Computing Machinery, New York, NY, USA. doi:10.1145/3748636.3762798 ``` </pre>
+<pre> Federica Rollo and Laura Po. 2025. GRAFMOVE: Graph-based Mobility Optimization and Visualization Engine. 
+In Proceedings of the 33rd ACM International Conference on Advances in Geographic Information Systems (Minneapolis, MN, USA) (SIGSPATIAL ’25). Association for Computing Machinery, New York, NY, USA. doi:10.1145/3748636.3762798 </pre>
 
-<pre> ```text Federica Rollo and Laura Po. 2025. MODyPer: Multi-Objective Dynamic Personalized Route Planning for Vulnerable Road Users. In Proceedings of the 33rd ACM International Conference on Advances in Geographic Information Systems (Minneapolis, MN, USA) (SIGSPATIAL ’25). Association for Computing Machinery, New York, NY, USA. doi:10.1145/3748636.3764160 ``` </pre>
+<pre> Federica Rollo and Laura Po. 2025. MODyPer: Multi-Objective Dynamic Personalized Route Planning for Vulnerable Road Users. In Proceedings of the 33rd ACM International Conference on Advances in Geographic Information Systems (Minneapolis, MN, USA) (SIGSPATIAL ’25). Association for Computing Machinery, New York, NY, USA. doi:10.1145/3748636.3764160 </pre>
 
 
 
