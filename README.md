@@ -20,11 +20,14 @@ The source code (Python code in the [code folder](https://github.com/federicarol
 
 The code can be run through [Google Colab](colab.research.google.com) or a Python IDE (e.g., Jupyter notebook).
 
-If you are using Google Colab, after loading the file with the code, you need to import data from the [data folder](https://github.com/federicarollo/ITADATA25/tree/main/data) manually.
+
+
+For further details, you may refer to and cite the following publications:
+
+<pre> ```text Federica Rollo and Laura Po. 2025. GRAFMOVE: Graph-based Mobility Optimization and Visualization Engine. In Proceedings of the 33rd ACM International Conference on Advances in Geographic Information Systems (Minneapolis, MN, USA) (SIGSPATIAL ’25). Association for Computing Machinery, New York, NY, USA. doi:10.1145/3748636.3762798 ``` </pre>
+
+<pre> ```text Federica Rollo and Laura Po. 2025. MODyPer: Multi-Objective Dynamic Personalized Route Planning for Vulnerable Road Users. In Proceedings of the 33rd ACM International Conference on Advances in Geographic Information Systems (Minneapolis, MN, USA) (SIGSPATIAL ’25). Association for Computing Machinery, New York, NY, USA. doi:10.1145/3748636.3764160 ``` </pre>
 
 
 
-
-
-
-This work was carried out as part of the AIQS project (AI-enhanced Air Quality Sensor for Optimizing Green Routes), under the project code DIP_AIQS_PO_2025_PNRR_ECOS_SK4AF_E93C22001100001. AIQS was funded through a closed call within the initiative ”Ecosystem for Sustainable Transition in Emilia-Romagna” (ECOSISTER), financed under the National Recovery and Resilience Plan (PNRR) – Mission 4 “Education and Research”, Component 2 “From Research to Business”, Investment 1.5 “Creation and strengthening of innovation ecosystems, building territorial R&D leaders” – funded by the European Union – *NextGenerationEU* (Grant Agreement No. 0001052, dated 23/06/2022 – Project ECS 00000033 – CUP E93C22001100001)".
+*This work was carried out as part of the AIQS project (AI-enhanced Air Quality Sensor for Optimizing Green Routes), under the project code DIP_AIQS_PO_2025_PNRR_ECOS_SK4AF_E93C22001100001. AIQS was funded through a closed call within the initiative ”Ecosystem for Sustainable Transition in Emilia-Romagna” (ECOSISTER), financed under the National Recovery and Resilience Plan (PNRR) – Mission 4 “Education and Research”, Component 2 “From Research to Business”, Investment 1.5 “Creation and strengthening of innovation ecosystems, building territorial R&D leaders” – funded by the European Union – NextGenerationEU (Grant Agreement No. 0001052, dated 23/06/2022 – Project ECS 00000033 – CUP E93C22001100001)".*
